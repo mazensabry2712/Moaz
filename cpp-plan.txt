@@ -1,0 +1,124 @@
+C++ is the mother of all langs
+
+Lesson 1 => introduction
+
+  79 
+ Before U start 
+what expect from this course
+ why to start with C++
+ what's the cpp
+what can u do with it
+ why to start with cpp not java or c or python or others
+
+Download Msys 
+pacman -Syu
+pacman -Su
+
+on MINGW64
+pacman -Ss gcc
+pacman -S mingw-w64-x86_64-gcc
+pacman -Ss gdb
+pacman -S mingw-w64-x86_64-gdb 
+
+Check Versions 
+
+gcc --version
+g++ --version
+gdb --version
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Lesson 2 => Get Start
+IDE's installation  visual studio // codeBlocks // Eclipse //=>Community edison<= ..........//online // .............for free 
+syntax
+Printing
+/\
+Omitting NameSpace    =? using namespace std;
+
+12IMAGE=
+
+\n or endl
+Comments
+Literals =>numbers & Strings 
+
+ and
+  escape sequences   [
+  \\ -> BackSlash
+  \t ->Tab
+  \n ->Newline
+  \" ->Double Quote
+  \' ->Single Quote
+  \a ->Audio bell
+  ]
+/\
+
+Variables
+/\
+User Inputs
+/\
+Datatype
+Arithmetic Operators
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Lesson 3
+
+Increment Decrement Operators: ++, --
+Postfix vs Prefix : ++A vs A++ , --A vs A--
+Assignment Operators
+Relational Operators
+Logical Operators
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Lesson 4
+
+Functions 
+Structures
+Enums
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Lesson 5
+
+Nested Structures and Enums - Full Practical Example
+Data Type Conversion
+Strings
+Functions 
+/\
+Functions Part II - Functions vs Procedures
+Function Part 3 - Parameters
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Lesson 6
+
+Variable Scope/ Local vs Global Variables
+Function Parameters - By-Val vs By-Ref
+Structures and Functions - Re-usability.
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Lesson 7
+
+Arrays
+Arrays with Functions
+Arrays of Structure
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Lesson 8
+
+Conditional Statements: IF, IF ... Else Statement
+Conditional Else IF Statement
+Enums with IF Statements
+Switch .. Case Statement
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Lesson 9
+
+Nested Functions with Enums
+For Loops
+For Loop & Arrays
+Nested For Loops.
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Lesson 10
+
+While Loop
+Do . . . While Loop
+Break Statement
+Continue Statement
+Completed, What's Next?
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
